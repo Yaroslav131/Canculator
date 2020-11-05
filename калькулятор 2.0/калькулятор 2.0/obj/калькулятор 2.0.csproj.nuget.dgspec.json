@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.NET\\ДЗ №3\\калькулятор 2.0\\калькулятор 2.0\\калькулятор 2.0.csproj": {}
+    "D:\\.NET\\My repository\\Calculator\\калькулятор 2.0\\калькулятор 2.0\\калькулятор 2.0.csproj": {}
   },
   "projects": {
-    "D:\\.NET\\ДЗ №3\\калькулятор 2.0\\калькулятор 2.0\\калькулятор 2.0.csproj": {
+    "D:\\.NET\\My repository\\Calculator\\калькулятор 2.0\\калькулятор 2.0\\калькулятор 2.0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NET\\ДЗ №3\\калькулятор 2.0\\калькулятор 2.0\\калькулятор 2.0.csproj",
+        "projectUniqueName": "D:\\.NET\\My repository\\Calculator\\калькулятор 2.0\\калькулятор 2.0\\калькулятор 2.0.csproj",
         "projectName": "калькулятор 2.0",
-        "projectPath": "D:\\.NET\\ДЗ №3\\калькулятор 2.0\\калькулятор 2.0\\калькулятор 2.0.csproj",
+        "projectPath": "D:\\.NET\\My repository\\Calculator\\калькулятор 2.0\\калькулятор 2.0\\калькулятор 2.0.csproj",
         "packagesPath": "C:\\Users\\berse\\.nuget\\packages\\",
-        "outputPath": "D:\\.NET\\ДЗ №3\\калькулятор 2.0\\калькулятор 2.0\\obj\\",
+        "outputPath": "D:\\.NET\\My repository\\Calculator\\калькулятор 2.0\\калькулятор 2.0\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\berse\\AppData\\Roaming\\NuGet\\NuGet.Config",
